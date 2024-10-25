@@ -1,0 +1,20 @@
+ 
+# Node and Angular
+node_modules/
+dist/
+
+# ASP.NET Core
+bin/
+obj/
+*.db
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Visual Studio files
+.vs/
